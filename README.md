@@ -1,5 +1,5 @@
 <p style="margin: 15px;" align="center">
-  <h1 align="center" background-color="EBD41B">Hi 👋, I'm Kévin</h1>
+  <h1 align="center">Hi 👋, I'm Kévin</h1>
   <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=The+Best+Developper;of+the+word+😎">
   <h3 align="center">A passionate fullstack developer from Togo</h3>
 </p>
