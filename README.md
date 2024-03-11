@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kévin</h1>
-<img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;vuejs+for+life">
+<img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Best+Developper;of+the+word+😎">
 <h3 align="center">A passionate fullstack developer from Togo</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sewah-kevin" alt="sewah-kevin" /></a> </p>
